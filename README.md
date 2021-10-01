@@ -6,10 +6,10 @@ This project uses the Amazon pet products dataset to evaluate bias toward favora
 
 Tools:
 
-PySpark 3.1.1
-pgAdmin 4.29 and PostgreSQL
-Amazon RDS (AWS Console)
-Amazon pet products dataset
+* PySpark 3.1.1
+* pgAdmin 4.29 and PostgreSQL
+* Amazon RDS (AWS Console)
+* Amazon pet products dataset
 
 # Results:
 There were 1457 paid reviews and 94563 non-paid reviews
