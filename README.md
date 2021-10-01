@@ -1,6 +1,15 @@
 # Amazon_Vine_Analysis
 # Overview:
-The purpose of the analysis is to determine if having a paid Vine review makes a difference in the percentage of 5-star reviews
+The following report analyzes Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
+
+This project uses the Amazon pet products dataset to evaluate bias toward favorable reviews from Vine members.
+
+Tools:
+
+PySpark 3.1.1
+pgAdmin 4.29 and PostgreSQL
+Amazon RDS (AWS Console)
+Amazon pet products dataset
 
 # Results:
 There were 1457 paid reviews and 94563 non-paid reviews
